@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fiyatlar">
+        <item>10 TL</item>
+        <item>20 TL</item>
+        <item>30 TL</item>
+        <item>40 TL</item>
+        <item>50 TL</item>
+    </string-array>
+    <string-array name="adetler">
+        <item>1 Adet</item>
+        <item>2 Adet</item>
+        <item>3 Adet</item>
+        <item>4 Adet</item>
+        <item>5 Adet</item>
+    </string-array>
+</resources>
